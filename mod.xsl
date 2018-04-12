@@ -9,9 +9,15 @@
 	            	
             		<tr>
             			<th>
-            				部门职位
+            				职位
             			</th>
-            			<td><xsl:value-of select="department"/><xsl:value-of select="title"/></td>
+            			<td><xsl:value-of select="title"/></td>
+            		</tr>
+            		<tr>
+            			<th>部门</th>
+            			<td>
+            				<xsl:value-of select="department"/>
+            			</td>
             		</tr>
             		<tr>
             			<th>
@@ -53,6 +59,7 @@
             				<xsl:value-of disable-output-escaping="yes" select="requirement/description"/>
             			</td>
             		</tr>
+            		
             		
             		<tr>
             			<th>联系方式</th>
