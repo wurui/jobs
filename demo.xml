@@ -58,6 +58,50 @@
                 5acc89b1644e540f942eef26
             </_id>
         </i>
+        <i>
+            <title>
+                资深前端工程师2
+            </title>
+            <salary-min>
+                10000
+            </salary-min>
+            <salary-max>
+                30000
+            </salary-max>
+            <description>
+                &lt;p&gt;   负责官方模块开发&lt;/p&gt;&lt;p&gt; 熟悉各种前端开发框架&lt;/p&gt;&lt;p&gt;   熟悉XML/XSL语法者优先&lt;/p&gt;
+            </description>
+            <requirement>
+                <age-min>
+                    22
+                </age-min>
+                <age-max>
+                    36
+                </age-max>
+                <degree>
+                    本科
+                </degree>
+                <workage>
+                    5
+                </workage>
+                <description>
+                    &lt;p&gt;   有一定行业经验&lt;/p&gt;&lt;p&gt;  有激情&lt;/p&gt;&lt;p&gt;  工作能独当一面&lt;/p&gt;
+                </description>
+            </requirement>
+            <department>
+                技术部
+            </department>
+            <owner>
+                吴瑞
+            </owner>
+            <contact>
+                rio@cenchin.com
+            </contact>
+            <_id>
+                5acc89b1644e540f942eef26
+            </_id>
+        </i>
+
     </jobs>
     </data>
 </root>
