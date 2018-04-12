@@ -1,6 +1,7 @@
 define([],function(){
   return {
     init:function($mod){
+    	
     	$mod.on('click','.J_fav',function(e){
     		var 
     		tar=e.target,

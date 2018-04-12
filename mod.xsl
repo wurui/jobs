@@ -65,7 +65,8 @@
             			<td colspan="2" align="right">
             				
             				<a class="bt" href="mailto:{contact}?subject=申请职位{title}">申请</a>
-            				<button type="button" class="J_fav bt" data-id="{_id}">收藏</button>
+            				<!--
+            				<button type="button" class="J_fav bt" data-id="{_id}">收藏</button>-->
 
             			</td>
             		</tr>
