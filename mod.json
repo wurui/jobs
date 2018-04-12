@@ -1,0 +1,9 @@
+{
+  "name": "jobs",
+  "apiDependencies": [
+  {
+    "name": "jobs"
+  }
+]
+}
+
