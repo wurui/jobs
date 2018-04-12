@@ -24,7 +24,7 @@
             				年龄
             			</th>
             			<td>
-            				<xsl:value-of select="requirement/age-min"/> - <xsl:value-of select="requirement/age-max"/>岁；
+            				<xsl:value-of select="requirement/age-min"/> - <xsl:value-of select="requirement/age-max"/>岁
             			</td>
             		</tr>
             		<tr>
@@ -41,19 +41,19 @@
             			</th>
             			<td><xsl:value-of select="requirement/workage"/>年</td>
             		</tr>
-            		
             		<tr>
-            			<th valign="top">其它要求</th>
-            			<td>
-            				<xsl:value-of disable-output-escaping="yes" select="requirement/description"/>
-            			</td>
-            		</tr>
-            		<tr>
-            			<th valign="top">描述</th>
+            			<th valign="top">职位描述</th>
             			<td>
             				<xsl:value-of disable-output-escaping="yes" select="description"/>
             			</td>
             		</tr>
+            		<tr>
+            			<th valign="top">任职要求</th>
+            			<td>
+            				<xsl:value-of disable-output-escaping="yes" select="requirement/description"/>
+            			</td>
+            		</tr>
+            		
             		<tr>
             			<th>联系方式</th>
             			<td>
