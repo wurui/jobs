@@ -8,10 +8,10 @@
             	<tbody>
 	            	
             		<tr>
-            			<th>
-            				职位
-            			</th>
-            			<td><xsl:value-of select="title"/></td>
+            			<td colspan="2">
+            				<big><xsl:value-of select="title"/></big>
+            			</td>
+            			
             		</tr>
             		<tr>
             			<th>部门</th>
