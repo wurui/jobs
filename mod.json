@@ -1,9 +1,9 @@
 {
   "name": "jobs",
   "apiDependencies": [
-  {
-    "name": "jobs"
-  }
-]
+	  {
+	    "name": "info-recruit"
+	  }
+	]
 }
 

@@ -14,7 +14,7 @@
         <icon>//oxm1.cc/img/app_default.png</icon>
     </p>
     <data>
-    <jobs ADATAPTERID="25acc89b1644e540f942eef27">
+    <info-recruit ADATAPTERID="25acc89b1644e540f942eef27">
         <i>
             <title>
                 资深前端工程师
@@ -102,6 +102,6 @@
             </_id>
         </i>
 
-    </jobs>
+    </info-recruit>
     </data>
 </root>

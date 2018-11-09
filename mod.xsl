@@ -2,7 +2,7 @@
     <xsl:template match="/root" name="wurui.jobs">
         <!-- className 'J_OXMod' required  -->
         <div class="J_OXMod oxmod-jobs" ox-mod="jobs">
-        	<xsl:for-each select="data/jobs/i">
+        	<xsl:for-each select="data/info-recruit/i">
             <table cellpadding="0" cellspacing="0">
             	
             	<tbody>
